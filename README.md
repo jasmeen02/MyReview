@@ -1,0 +1,4 @@
+MyReview
+========
+
+Conference management software
